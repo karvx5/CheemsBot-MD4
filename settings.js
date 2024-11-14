@@ -54,10 +54,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.vcardowner = ['201229168926'] //ur owner number
+global.ownername = "ELSHABAH_BOT 👻🔥" //ur owner name
+global.ytname = "YT: ELSHABAH" //ur yt chanel name
+global.socialm = "GitHub: ELSHABAH" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['201229168926'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
